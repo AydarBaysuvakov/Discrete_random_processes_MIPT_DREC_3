@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "14f6205f0260e14f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb5f2ccc388a64b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834e196943e95b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Аксиомы теории множеств.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Аксиомы теории множеств"
+            }
+          },
+          {
+            "id": "474d83762f2070f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Цепь.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цепь"
+            }
+          },
+          {
+            "id": "4916dd7e7aad3c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединение множеств.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Объединение множеств"
+            }
+          },
+          {
+            "id": "249afcb198e7b1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Топология.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Топология"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25382365eeb02be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe6e5594e8ada10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0556e4778170ba4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "aca173575ffa9486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "895150d96cb19d4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "421b782278920e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84b122da2b061cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b732e450c0148f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Натуральные числа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Натуральные числа"
+            }
+          },
+          {
+            "id": "9e4008f440dad8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Натуральные числа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Натуральные числа"
+            }
+          },
+          {
+            "id": "108254acd86c6345",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7eb7c7a4f1f28b79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "0aeb389ff27aba64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Натуральные числа.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Натуральные числа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "249afcb198e7b1ce",
+  "lastOpenFiles": [
+    "Функция как морфизм.md",
+    "Объединение множеств.md",
+    "Отношение порядка.md",
+    "Пересечение множеств.md",
+    "Подмножество.md",
+    "Следствие из аксиомы выбора.md",
+    "Ссылки.md",
+    "Степень множества.md",
+    "Сходимость последовательности в топологическом пространстве.md",
+    "Теоретико-множественный фильтр.md",
+    "Топология.md",
+    "Упорядоченная пара.md",
+    "Усиленная континуум-гипотеза.md",
+    "Фильтр.md",
+    "Фильтр порожденный базой.md",
+    "Функция.md",
+    "Цепь.md",
+    "Мощность множества.md",
+    "Натуральные числа.md",
+    "Множество функций.md",
+    "Множество.md",
+    "Мера Лебега.md",
+    "Конечная модель системы вероятностных событий.md",
+    "Измерения экспериментов.md",
+    "Декартово произведение.md",
+    "Биекция.md",
+    "Без названия"
+  ]
+}
